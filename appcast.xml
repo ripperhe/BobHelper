@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>BobHelper</title>
+    <item>
+      <title>0.1.0</title>
+      <pubDate>Sun, 11 Aug 2024 18:23:58 +0800</pubDate>
+      <sparkle:version>43</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
+      <enclosure url="https://release.ripperhe.com/BobHelper/tag/v0.1.0/BobHelper.zip" length="8736724" type="application/octet-stream" sparkle:edSignature="cD7gmvPtWGxDNSeoeZ/tNAvMXZS+xUIXfAVqPAbQjRyou/s4rv2kE7B7wMHxq8zVv4+hdlafEXPFmb9cfMExBg=="/>
+      <description><![CDATA[
+      <ul>
+      <li>解决 macOS 15 Sequoia 无法使用「Option + 字母」作为快捷键的问题</li>
+      </ul>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
